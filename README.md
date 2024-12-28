@@ -29,4 +29,4 @@ Pastikan Anda memiliki Python 3.8 atau lebih baru serta virtual environment yang
 
 ## Akses Dashboard yang Sudah Dideploy
 Dashboard sudah dideploy dan dapat diakses melalui link berikut:
-[**Data Science Salaries Dashboard**](https://adit-data-science-salaries.streamlit.app/)
+[**Data Science Salaries Dashboard**](https://adit-ecommerce-public-dataset.streamlit.app/)
